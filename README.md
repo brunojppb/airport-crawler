@@ -23,6 +23,6 @@ It will generate a `.JSON` file with all airports (the ones with IATA code). The
 ```json
 [
   /* IATA;AirportName;City;Country */
-  ["ATT;Atmautluak;Atmautluak;United States"]
+  "ATT;Atmautluak;Atmautluak;United States"
 ]
 ```
