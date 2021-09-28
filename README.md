@@ -20,7 +20,7 @@ $ruby airport_crawler.rb
 #### Result
 It will generate a `.JSON` file with all airports (the ones with IATA code). The file is optimized to get a small size and be embedded in your app (around 700 KB). You can change the code to generate a fancier output if you want.
 
-```json
+```js
 [
   /* IATA;AirportName;City;Country */
   "ATT;Atmautluak;Atmautluak;United States"
